@@ -12,6 +12,6 @@ spatio-temporal air quality intelligence systems at aqi.in (Prana Air), after ML
 - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/rraj4/)
 
 #### Featured
-- **Sentiment analysis (BERT vs. Logistic Regression)** — Amazon product reviews *(add repo/link to publication)*
-- **Cost-effective parking system (Computer Vision)** — *(add repo/link to publication)*
+- **Sentiment analysis (BERT vs. Logistic Regression)** — Amazon product reviews https://github.com/roushansr/Sentiment_Analysis
+- **Cost-effective parking system (Computer Vision)** 
 - **Exploratory-Data-Analysis** — Covid-19, India Census, London Housing, Police Data, and more
